@@ -16,4 +16,4 @@ watchman watch-del-all
   
 npm start --reset-cache
 
-in local.properties update: sdk.dir=/Users/"username"/Library/Android/sdk
+rm -rf android/local.properties
