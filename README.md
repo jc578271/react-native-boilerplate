@@ -12,4 +12,4 @@ eg: react-native-rename "YourApp"
 
 cd ios && pod install && cd ..
 
-in local.properties update: sdk.dir=/Users/<username>/Library/Android/sdk
+in local.properties update: sdk.dir=/Users/"username"/Library/Android/sdk
