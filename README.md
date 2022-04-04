@@ -1,4 +1,4 @@
-git clone https://github.com/jc578271/react-native-boilerplate.git ./
+git clone https://github.com/jc578271/react-native-boilerplate.git <newName>
 
 rm -rf .git
 
