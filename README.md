@@ -10,3 +10,4 @@ npm react-native-rename <newName>
   
 eg: react-native-rename "YourApp"
 
+cd ios && pod install && cd ..
