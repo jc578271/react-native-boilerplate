@@ -7,5 +7,6 @@ yarn global add react-native-rename react-native
 yarn install
 
 npm react-native-rename <newName>
+  
 eg: react-native-rename "YourApp"
 
