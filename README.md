@@ -6,14 +6,12 @@ yarn global add react-native-rename react-native
 
 yarn install
 
-npx react-native-rename <newName>
-  
-eg: npx react-native-rename "YourApp"
+npx react-native-rename "YourApp"
 
-cd ios && pod install && cd ..
+cd ios && pod install && cd .. (IOS)
+
+rm -rf android/local.properties
   
 watchman watch-del-all
   
 npm start --reset-cache
-
-rm -rf android/local.properties
