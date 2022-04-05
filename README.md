@@ -1,5 +1,7 @@
 git clone https://github.com/jc578271/react-native-boilerplate.git YourApp
 
+cd YourApp
+
 rm -rf .git
 
 yarn global add react-native-rename
