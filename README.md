@@ -2,7 +2,7 @@ git clone https://github.com/jc578271/react-native-boilerplate.git YourApp
 
 rm -rf .git
 
-yarn global add react-native-rename react-native
+yarn global add react-native-rename
 
 yarn install
 
