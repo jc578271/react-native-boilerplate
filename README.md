@@ -10,10 +10,8 @@ npx react-native-rename "YourApp"
 
 find entirely the project "Geolocation", then change to "YourApp"
 
-cd ios && pod install && cd .. (IOS)
-
-rm -rf android/local.properties
+cd ios && pod install && cd .. // -> for IOS
   
-watchman watch-del-all
+watchman watch-del-all // -> for MacOS
   
 npm start --reset-cache
