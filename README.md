@@ -8,7 +8,7 @@ yarn install
 
 npx react-native-rename "YourApp"
 
-find entirely the project "Geolocation", then change to "YourApp"
+find entirely the project "Geolocation" (with Match Case and Word), then change to "YourApp"
 
 cd ios && pod install && cd .. // -> for MacOS
   
